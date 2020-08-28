@@ -4,7 +4,6 @@
     <list default="true" id="37340ca1-5d24-4a52-ac51-d06703168e6a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/remarks" beforeDir="false" afterPath="$PROJECT_DIR$/remarks" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +24,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="13f2225e-3121-4eaf-8eed-f6bae499be1e" />
+  </component>
   <component name="ProjectId" id="1gcvLIEmXXTNFCpkXvngbAFwUwv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,18 +44,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Miten\django\djangocommands\cmdapp" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -95,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -106,22 +98,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="try" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1598621160208">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1598623823206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598621160208" />
-    <state x="546" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1598621333789">
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598623823206" />
+    <state x="546" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1598623841723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="546" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.728@0.0.1366.728" timestamp="1598621333789" />
+    <state x="546" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.728@0.0.1366.728" timestamp="1598623841723" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1598624020287">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1598624020287" />
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1598624020303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1598624020303" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1598440185054">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598440185054" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1598621313536">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1598623830975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598621313536" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598623830975" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1598602832351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37340ca1-5d24-4a52-ac51-d06703168e6a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remarks" beforeDir="false" afterPath="$PROJECT_DIR$/remarks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gcvLIEmXXTNFCpkXvngbAFwUwv" />
@@ -47,13 +53,37 @@
       <option name="presentableId" value="Default" />
       <updated>1598426637378</updated>
     </task>
+    <task id="LOCAL-00001" summary="try">
+      <created>1598621162904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598621162904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try" />
+    <option name="LAST_COMMIT_MESSAGE" value="try" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1598621160208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598621160208" />
+    <state x="546" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1598621333789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.728@0.0.1366.728" timestamp="1598621333789" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1598440185054">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598440185054" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1598621313536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598621313536" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1598602832351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
